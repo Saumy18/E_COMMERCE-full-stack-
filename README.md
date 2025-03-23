@@ -13,12 +13,12 @@ This is a full-stack e-commerce website built using modern web technologies. It 
 ## Features
 - User Authentication (Login/Signup)
 - Product Catalog with Categories
-- Shopping Cart and Checkout System
+- Shopping Cart.
 - Admin Dashboard for Product Management
 - Responsive Design
 - Secure API Integration
 
-## Installation
+
 
 ### Prerequisites
 Make sure you have the following installed:
@@ -27,11 +27,6 @@ Make sure you have the following installed:
 
 ### Steps to Set Up the Project
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-repo/ecommerce-site.git
-   cd ecommerce-site
-   ```
 2. Install dependencies:
    ```bash
    npm install
@@ -89,12 +84,10 @@ Make sure you have the following installed:
 - The frontend is deployed on **Vercel**.
 - The backend can be hosted on a cloud platform such as Heroku, Render, or a dedicated server.
 
-## License
-This project is open-source and available under the MIT License.
 
 ## Contributing
 Contributions are welcome! Feel free to open an issue or submit a pull request.
 
 ## Contact
-For any queries, reach out to **[Your Name]** at **[Your Email]**.
+For any queries, reach out to "SAUMY RAJ" at **22052674@kiit.ac.in**.
 
